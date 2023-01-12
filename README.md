@@ -2,11 +2,9 @@
 
 ### The purpose of hardhat-vin-tracker is to allow any car owner to view their automobile's reported history from previous owners
 
-### To combat the pitfall of proving you actually own the vehicle I want to create an alternative contract that has owner/admins
-
-### For example If I sell the car I retain admin ability and the next person who buys it can submit info to the contract for the admin to
-
-### check themselves. If the person proves they have the car to the admin then they can get priveleges/ownership.
+To combat the pitfall of proving you actually own the vehicle I want to create an alternative contract that has owner/admins
+For example If I sell the car I retain admin ability and the next person who buys it can submit info to the contract for the admin to
+check themselves. If the person proves they have the car to the admin then they can get priveleges/ownership.
 
 ### Ideally you wouldn't have to do any of that and this would be the norm so that whenever people sold the car they would also transfer
 
